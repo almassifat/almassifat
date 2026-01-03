@@ -8,7 +8,6 @@ Dynamic and motivated AI Engineer with over 1 year of hands-on experience in bui
 - [CVPR](https://github.com/almassifat/CVPR) - Computer Vision Projects Repository
 - [NLP-BERT-Variant-Analysis](https://github.com/almassifat/NLP-BERT-Variant-Analysis) - Analysis of BERT Variants for NLP Tasks
 - [MLP-XGBoost-Ensemble-Model](https://github.com/almassifat/MLP-XGBoost-Ensemble-Model) - Ensemble Learning Implementation
-- [EDGE_DataScience](https://github.com/almassifat/EDGE_DataScience) - Data Science Projects
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasin-almas-sifat/)
