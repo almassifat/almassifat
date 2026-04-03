@@ -65,6 +65,7 @@ I specialize in **AI systems design, NLP, and Computer Vision**, with a strong f
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasin-almas-sifat/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hasin-Sifat)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=hOtD55QAAAAJ&hl=en)
 
 ---
 
@@ -113,6 +114,6 @@ I specialize in **AI systems design, NLP, and Computer Vision**, with a strong f
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=almassifat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=almassifat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ---
